@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, I'm Aqib Javed</b</h1>
+<h1 align="center"><b>Hi 👋, I'm Aqib Javed</b></h1>
 <h3 align="center">🚀  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
 </h3>
 
