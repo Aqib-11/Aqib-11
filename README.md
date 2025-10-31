@@ -7,13 +7,13 @@
 ---
 
 ### 🏆 Achievements  
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/earner/earned/badge/b93fdbd8-4535-47f5-8ce9-0508d3e48c38" target="_blank">
     <img src="https://img.shields.io/badge/IBM_AI_Developer_Professional_Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Replace each link below with your individual Credly badge URLs -->
   <a href="https://www.credly.com/earner/earned/badge/b93fdbd8-4535-47f5-8ce9-0508d3e48c38" target="_blank"><img src="assets/image.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/badges/94535594-2853-4b40-9c47-90425f957e28" target="_blank"><img src="assets/Building Gen AI Application.png" alt="IBM Badges" width="100" /></a>
