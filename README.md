@@ -18,7 +18,7 @@
   <a href="https://www.credly.com/badges/94535594-2853-4b40-9c47-90425f957e28" target="_blank"><img src="assets/Building Gen AI Application.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/49499a87-dea7-4601-baf5-6379e953faa5" target="_blank"><img src="assets/Gen-AI.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/58a68758-50f6-47be-bb85-5b6965217013" target="_blank"><img src="assets/python.png" alt="IBM Badges" width="100" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/2c0810df-1f8a-4a1c-924d-999daa8ee283" target="_blank"><img src="assets/image.png" alt="IBM Badges" width="100" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/bddca5e8-e530-449c-9480-562bb67a1a89" target="_blank"><img src="assets/image.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/2c0810df-1f8a-4a1c-924d-999daa8ee283" target="_blank"><img src="assets/AI.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/82904636-96f2-405b-8e7f-1e512cf9b99c" target="_blank"><img src="assets/image.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/82904636-96f2-405b-8e7f-1e512cf9b99c" target="_blank"><img src="assets/image.png" alt="IBM Badges" width="100" /></a>
