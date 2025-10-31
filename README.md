@@ -24,7 +24,6 @@
   <a href="https://www.credly.com/earner/earned/badge/82904636-96f2-405b-8e7f-1e512cf9b99c" target="_blank"><img src="assets/Interview.png" alt="IBM Badges" width="100" /></a>
 </p>
 ✅ Click the badge to view verification details.
----
 
 ### 🌱 About Me
 - 💡 Passionate about **Artificial Intelligence,Machine Learning, Deep Learning, Generative AI and Agentic AI**
