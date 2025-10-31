@@ -7,10 +7,9 @@
 ---
 
 ### 🏆 Achievements  
-<p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/b93fdbd8-4535-47f5-8ce9-0508d3e48c38" target="_blank">
-    <img src="https://img.shields.io/badge/IBM_AI_Developer_Professional_Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" />
-  </a>
+<p align="center">
+  ![IBM AI Developer](https://img.shields.io/badge/IBM%20AI%20Developer-blue?style=for-the-badge&logo=ibm&logoColor=white)
+
 </p>
 
 <p align="left">
