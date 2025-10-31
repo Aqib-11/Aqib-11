@@ -1,4 +1,3 @@
-# Aqib Javed
 
 <h1 align="center">Hi 👋, I'm Aqib Javed</h1>
 <h3 align="center">🚀  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
