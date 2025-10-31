@@ -1,4 +1,4 @@
-# aqibjaved
+# Aqib Javed
  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
 
 <h1 align="center">Hi 👋, I'm Aqib Javed</h1>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Replace each link below with your individual Credly badge URLs -->
-  <a href="https://www.credly.com/badges/your-badge-1-link" target="_blank"><img src="https://img.shields.io/badge/Module_1_AI_Engineering-blue?style=flat-square&logo=ibm" /></a>
+  <a href="https://www.credly.com/badges/your-badge-1-link" target="_blank"><img src="https://img.shields.io/badge/IBM-AI-Developer-blue?style=flat-square&logo=ibm" /></a>
   <a href="https://www.credly.com/badges/your-badge-2-link" target="_blank"><img src="https://img.shields.io/badge/Module_2_Machine_Learning-blue?style=flat-square&logo=ibm" /></a>
   <a href="https://www.credly.com/badges/your-badge-3-link" target="_blank"><img src="https://img.shields.io/badge/Module_3_Deep_Learning-blue?style=flat-square&logo=ibm" /></a>
   <a href="https://www.credly.com/badges/your-badge-4-link" target="_blank"><img src="https://img.shields.io/badge/Module_4_Neural_Networks-blue?style=flat-square&logo=ibm" /></a>
