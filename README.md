@@ -62,6 +62,4 @@
   <a href="https://https://www.linkedin.com/in/aqib-javed-23539838b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.credly.com/users/aqib-javed./edit#credly" target="_blank">
-  </a>
 </p>
