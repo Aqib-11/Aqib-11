@@ -7,10 +7,12 @@
 ---
 
 ### 🏆 Achievements  
-<p align="center">
-  ![IBM AI Developer](https://img.shields.io/badge/IBM%20AI%20Developer-blue?style=for-the-badge&logo=ibm&logoColor=white)
+<h2 align="left">
+  <span style="background-color:#0078D7; color:white; padding:8px 20px; border-radius:8px;">
+    🧠 IBM AI Developer
+  </span>
+</h2>
 
-</p>
 
 <p align="left">
   <!-- Replace each link below with your individual Credly badge URLs -->
