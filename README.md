@@ -18,7 +18,6 @@
   <a href="https://www.credly.com/badges/94535594-2853-4b40-9c47-90425f957e28" target="_blank"><img src="assets/Building Gen AI Application.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/49499a87-dea7-4601-baf5-6379e953faa5" target="_blank"><img src="assets/Gen-AI.png" alt="IBM Badges" width="100" /></a>
    <a href="https://www.credly.com/earner/earned/badge/58a68758-50f6-47be-bb85-5b6965217013" target="_blank"><img src="assets/python.png" alt="IBM Badges" width="100" /></a>
-
   <a href="https://www.credly.com/badges/bddca5e8-e530-449c-9480-562bb67a1a89" target="_blank"><img src="assets/image-soft.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/badges/your-badge-6-link" target="_blank"><img src="https://img.shields.io/badge/Module_6_Data_Science-blue?style=flat-square&logo=ibm" /></a>
   <a href="https://www.credly.com/badges/your-badge-7-link" target="_blank"><img src="https://img.shields.io/badge/Module_7_Computer_Vision-blue?style=flat-square&logo=ibm" /></a>
