@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi 👋, I'm Aqib Javed</b></h1>
-<h3 align="center">🚀  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
+<h3 align="center">🚀  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Generative AI 
 </h3>
 
 ---
 
-### 🏆 Achievements  
+## 🏆 Achievements  
 <h1 align="center">
   <span style="background-color:#0078D7; color:white; padding:8px 20px; border-radius:8px;">
     🧠 IBM AI Developer
