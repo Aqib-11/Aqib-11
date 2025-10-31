@@ -7,11 +7,11 @@
 ---
 
 ### 🏆 Achievements  
-<h2 align="left">
+<h1 align="center">
   <span style="background-color:#0078D7; color:white; padding:8px 20px; border-radius:8px;">
     🧠 IBM AI Developer
   </span>
-</h2>
+</h1>
 
 
 <p align="left">
