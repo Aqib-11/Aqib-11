@@ -23,7 +23,7 @@
   <a href="https://www.credly.com/earner/earned/badge/2fea64f7-3638-4107-aa86-2752d283dc8f" target="_blank"><img src="assets/Gen-AI-Ess.png" alt="IBM Badges" width="100" /></a>
   <a href="https://www.credly.com/earner/earned/badge/82904636-96f2-405b-8e7f-1e512cf9b99c" target="_blank"><img src="assets/Interview.png" alt="IBM Badges" width="100" /></a>
 </p>
-
+✅ Click the badge to view verification details.
 ---
 
 ### 🌱 About Me
