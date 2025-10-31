@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="assets/Hugging Face.png" alt="Hugging Face" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
 </p>
