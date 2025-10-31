@@ -63,6 +63,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.credly.com/users/aqib-javed./edit#credly" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly" />
   </a>
 </p>
