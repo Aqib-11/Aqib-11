@@ -49,12 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqibjaved&show_icons=true&theme=radical" alt="Aqib's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibjaved&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
