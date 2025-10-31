@@ -1,8 +1,8 @@
 # Aqib Javed
- AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
 
 <h1 align="center">Hi 👋, I'm Aqib Javed</h1>
-<h3 align="center">🚀 AI & Data Science Enthusiast | Exploring Patterns, Building Models, Creating Insights</h3>
+<h3 align="center">🚀  AI &amp; Machine Learning Enthusiast | Deep Learning | Computer Vision | Computer Vision | Generative AI 
+</h3>
 
 ---
 
