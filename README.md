@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
   <img src="assets/Hugging Face.png" alt="Hugging Face" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
+  <img src="assests/Lang Graph.png" alt="Lang Graph" width="50" height="50"/>
 </p>
 
 ---
